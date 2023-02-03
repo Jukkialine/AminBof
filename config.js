@@ -4,12 +4,12 @@ import { watchFile, unwatchFile } from 'fs'
 import moment from 'moment-timezone'
 
 global.owner = [
-  ['+62 882-2724-8988'],
-  ['+62 882-0053-10908'],
-  ['+62 822 2724 8988'],
-  ['6288227248988', 'Asrori Amin', true],
-  ['62882005310908', 'Amin Bot', true],
-  ['+62 895 6203 64877', 'Nisa', true],
+  ['+923051038557'],
+  ['+923010989686'],
+  ['+923473028415'],
+  ['+923051038557', 'Asrori Amin', true],
+  ['+923051038557', 'Amin Bot', true],
+  ['+923051038557', 'Nisa', true],
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -75,10 +75,10 @@ global.hbunny = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://t
 global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://telegra.ph/file/b6905b77e6c7732592a13.jpg','https://telegra.ph/file/9da45a352eb4c40e5d641.jpg', 'https://telegra.ph/file/59e78846ee365975ee6e3.jpg','https://telegra.ph/file/1bf7dee46b83eb4c41d7d.jpg','https://telegra.ph/file/0525a7929f819cb8278f3.jpg']
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62882005310908'
-global.nomorown = '6288227248988'
-global.namebot = 'Amin Bot'
-global.nameown = 'Asrori Amin'
+global.nomorbot = '+923051038557'
+global.nomorown = '+923051038557'
+global.namebot = '𝘾ᴙ𝗧𝗮𝗳𝘁𝘆.𝗣𝗮𝗻𝗱𝗮.𝘽𝙤𝙩-𝙈𝘿t'
+global.nameown = '𝘾ᴙ𝗧𝗮𝗳𝘁𝘆.𝗣𝗮𝗻𝗱𝗮.𝘽𝙤𝙩-𝙈𝘿'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
@@ -108,8 +108,8 @@ global.htjava = '⫹⫺' //hiasan Doang :v
 global.hsquere = '⛶', '❏', '⫹⫺'
 
 // Sticker WM
-global.packname = 'Asrori Amin'
-global.author = 'Asrori Amin'
+global.packname = '𝘾ᴙ𝗧𝗮𝗳𝘁𝘆.𝗣𝗮𝗻𝗱𝗮.𝘽𝙤𝙩-𝙈𝘿'
+global.author = '𝘾ᴙ𝗧𝗮𝗳𝘁𝘆.𝗣𝗮𝗻𝗱𝗮.𝘽𝙤𝙩-𝙈𝘿'
 
 global.multiplier = 69 // The higher, The harder levelup
 
